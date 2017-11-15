@@ -2958,7 +2958,7 @@ body {
 .header {
   width: 100%;
   height: 67vw;
-  background: url(/img/bgimg.jpg) no-repeat;
+  background: url(../img/bgimg.jpg) no-repeat;
   background-size: cover;
   position: relative; }
 
@@ -3242,7 +3242,7 @@ body {
       height: 30px; } }
 
 .works {
-  background: url(/img/worksbg.jpg) no-repeat;
+  background: url(../img/worksbg.jpg) no-repeat;
   background-size: contain;
   height: 62.5vw; }
   .works__button {
